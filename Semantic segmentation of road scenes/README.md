@@ -3,6 +3,12 @@
 # DataSet preparation
 Dataloaders for Cityscapes, Camvid and ADE20K are available in [datasets](./datasets). 
 
+Download the Cityscapes dataset from [here](https://www.cityscapes-dataset.com/);
+
+Download the Camvid dataset according to the [tutorial](https://github.com/alexgkendall/SegNet-Tutorial/tree/master/CamVid);
+
+Download the ADE20K dataset from [webpage](https://groups.csail.mit.edu/vision/datasets/ADE20K/).
+
 ## Requirements
 
 pytorch >= 1.2.0

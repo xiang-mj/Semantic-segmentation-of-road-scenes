@@ -2,7 +2,9 @@
 
 # DataSet preparation
 We needed three road scene datasets: Cityscapes, Camvid, and ADE20K.
-First of all, please request the dataset from [here](https://www.cityscapes-dataset.com/). You need multiple files.
+
+First of all, please download the Cityscapes dataset from [here](https://www.cityscapes-dataset.com/). 
+
 Please download and prepare this dataset according to the [tutorial](https://github.com/alexgkendall/SegNet-Tutorial/tree/master/CamVid). The desired folder structure will look like,
 Please download this dataset at ADE20K [webpage](https://groups.csail.mit.edu/vision/datasets/ADE20K/)
 

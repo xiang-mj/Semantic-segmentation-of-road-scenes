@@ -1,7 +1,7 @@
 # Semantic segmentation of road scenarios based on Transformer and dual-branch network
 
 # DataSet preparation
-Dataloaders for Cityscapes, Camvid and ADE20K are available in [datasets](./datasets). 
+We needed three road scene datasets: Cityscapes, Camvid, and ADE20K.
 
 ## Requirements
 

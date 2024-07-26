@@ -1,6 +1,6 @@
 # Semantic segmentation of road scenarios based on Transformer and dual-branch network
 
-![The overall network architecture](Semantic segmentation of road scenes/images/1.jpg)
+![The overall network architecture](./images/1.jpg)
 
 # DataSet preparation
 Dataloaders for Cityscapes, Camvid and ADE20K are available in [datasets](./datasets). 

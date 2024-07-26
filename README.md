@@ -19,7 +19,7 @@ Baidu Pan Link: https://pan.baidu.com/s/1s_BdU9PzMTpZoGJtCJZeEA  p24v
 
 # Training
 
-Our resnet-based methods including fcn, u-net, deeplabv3+, pspnet can be trained by 8-4090-TI gpus with batchsize 8.
+Our resnet-101-based methods including fcn, u-net, deeplabv3+, pspnet can be trained by 8-4090-TI gpus with batchsize 8.
 Our training contains two steps(Here I give the ):
 
 

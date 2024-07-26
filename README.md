@@ -14,7 +14,7 @@ opencv-python
 
 ## Pretrained Models
 
-Baidu Pan Link: https://pan.baidu.com/s/1s_BdU9PzMTpZoGJtCJZeEA  p24v
+Baidu Pan Link: https://pan.baidu.com/s/1s_BdU9PzMTpZoGJtCJZeEA  extract code(p24v)
 
 
 # Training

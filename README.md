@@ -5,10 +5,10 @@ We needed three road scene datasets: Cityscapes, Camvid, and ADE20K.
 
 First of all, please download the Cityscapes dataset from [here](https://www.cityscapes-dataset.com/). 
 
-Please download and prepare this dataset according to the [tutorial](https://github.com/alexgkendall/SegNet-Tutorial/tree/master/CamVid). The desired folder structure will look like,
-Please download this dataset at ADE20K [webpage](https://groups.csail.mit.edu/vision/datasets/ADE20K/)
+Download the Camvid dataset according to the [tutorial](https://github.com/alexgkendall/SegNet-Tutorial/tree/master/CamVid). 
 
-and we use the semantic segmentation parts. Unzip the file, the desired folder structure will look like this.
+Download the ADE20K dataset at ADE20K [webpage](https://groups.csail.mit.edu/vision/datasets/ADE20K/).
+
 
 ## Requirements
 
